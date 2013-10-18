@@ -1,0 +1,38 @@
+Start	Sat Oct 12 11:06:16 2013	1381565176.63
+Teethbyte	Sat Oct 12 11:06:20 2013	1381565180.73
+Teethbyte	Sat Oct 12 11:06:24 2013	1381565184.82
+Teethbyte	Sat Oct 12 11:06:28 2013	1381565188.9
+Songstart	Shuv Hageshem played on Sat Oct 12 11:06:28 2013	1381565188.91
+Enjoyment	Shuv Hageshem	n	Sat Oct 12 11:06:38 2013	1381565198.66
+Songpassed	Shuv Hageshem	on Sat Oct 12 11:07:30 2013	1381565250.08
+Songstart	Pink played on Sat Oct 12 11:07:30 2013	1381565250.48
+Enjoyment	Pink	y	Sat Oct 12 11:07:37 2013	1381565257.42
+Songpassed	Pink	on Sat Oct 12 11:08:31 2013	1381565311.81
+Songstart	Hamikre Halo Naim Sh'Kara L'Gadi Bagan played on Sat Oct 12 11:08:32 2013	1381565312.28
+Enjoyment	Hamikre Halo Naim Sh'Kara L'Gadi Bagan	n	Sat Oct 12 11:08:40 2013	1381565320.11
+Songpassed	Hamikre Halo Naim Sh'Kara L'Gadi Bagan	on Sat Oct 12 11:09:34 2013	1381565374.3
+Songstart	Lets Get Retarded played on Sat Oct 12 11:09:34 2013	1381565374.54
+Enjoyment	Lets Get Retarded	y	Sat Oct 12 11:09:41 2013	1381565381.53
+Songpassed	Lets Get Retarded	on Sat Oct 12 11:10:36 2013	1381565436.51
+Songstart	Sweet Home Chicago played on Sat Oct 12 11:10:37 2013	1381565437.15
+Enjoyment	Sweet Home Chicago	y	Sat Oct 12 11:10:43 2013	1381565443.82
+Songpassed	Sweet Home Chicago	on Sat Oct 12 11:11:38 2013	1381565498.58
+Songstart	Bacavod Sheli played on Sat Oct 12 11:11:38 2013	1381565498.94
+Enjoyment	Bacavod Sheli	n	Sat Oct 12 11:11:48 2013	1381565508.35
+Songpassed	Bacavod Sheli	on Sat Oct 12 11:12:41 2013	1381565561.11
+Songstart	What Have I Become played on Sat Oct 12 11:12:41 2013	1381565561.61
+Enjoyment	What Have I Become	n	Sat Oct 12 11:13:35 2013	1381565615.12
+Songpassed	What Have I Become	on Sat Oct 12 11:13:43 2013	1381565623.14
+Songstart	Billie Jean played on Sat Oct 12 11:13:43 2013	1381565623.42
+Enjoyment	Billie Jean	y	Sat Oct 12 11:13:52 2013	1381565632.14
+Songpassed	Billie Jean	on Sat Oct 12 11:14:44 2013	1381565684.93
+Songstart	Lets Get Retarded played on Sat Oct 12 11:14:45 2013	1381565685.19
+Enjoyment	Lets Get Retarded	y	Sat Oct 12 11:15:18 2013	1381565718.62
+Songpassed	Lets Get Retarded	on Sat Oct 12 11:15:46 2013	1381565746.47
+Songstart	Sweet Home Chicago played on Sat Oct 12 11:15:46 2013	1381565746.83
+Enjoyment	Sweet Home Chicago	y	Sat Oct 12 11:15:56 2013	1381565756.28
+Songpassed	Sweet Home Chicago	on Sat Oct 12 11:16:50 2013	1381565810.57
+Teethbyte	Sat Oct 12 11:16:55 2013	1381565815.01
+Teethbyte	Sat Oct 12 11:16:59 2013	1381565819.1
+Teethbyte	Sat Oct 12 11:17:03 2013	1381565823.19
+Stopped	Sat Oct 12 11:17:03 2013	1381565823.19
